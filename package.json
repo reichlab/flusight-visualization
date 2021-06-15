@@ -1,0 +1,26 @@
+{
+  "name": "foresight-visualization-template",
+  "description": "<img src=\"./src/assets/imgs/reichlab-multiline.png\" align=\"right\">",
+  "version": "0.0.1",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reichlab/foresight-visualization-template.git"
+  },
+  "author": "Yuxin David Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reichlab/foresight-visualization-template/issues"
+  },
+  "homepage": "https://github.com/reichlab/foresight-visualization-template#readme",
+  "devDependencies": {
+    "@tsconfig/node14": "^1.0.1",
+    "typescript": "^4.3.2"
+  }
+}

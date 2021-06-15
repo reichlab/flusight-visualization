@@ -2,7 +2,7 @@
  * Utilities
  */
 
-export const parseDataResponse = response => {
+export function parseDataResponse(response: any) {
   let jsonText = response.bodyText.slice(17)
   if (jsonText.endsWith(';')) {
     jsonText = jsonText.slice(0, -1)
