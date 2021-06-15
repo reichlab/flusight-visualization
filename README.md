@@ -1,4 +1,4 @@
-<img src="./reichlab-multiline.png" align="right">
+<img src="./assets/reichlab-multiline.png" align="right">
 
 ![icon](./icon.png)
 
