@@ -1,6 +1,6 @@
 <img src="./src/assets/imgs/reichlab-multiline.png" align="right">
 
-![icon](./icon.png)
+![icon](./src/assets/imgs/icon.png)
 
 ---
 
