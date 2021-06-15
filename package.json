@@ -2,7 +2,6 @@
   "name": "foresight-visualization-template",
   "description": "<img src=\"./src/assets/imgs/reichlab-multiline.png\" align=\"right\">",
   "version": "0.0.1",
-  "main": "src/main.js",
   "directories": {
     "test": "test"
   },
