@@ -1,10 +1,6 @@
 <template lang="pug">
 img(alt="Vue logo" src="./assets/logo.png")
-HelloWorld(msg="Customized message")
 Chart
-p abc1
-p abc2
-p abc3
 </template>
 
 <script lang="ts">
@@ -20,14 +16,7 @@ import * as d3 from "d3";
     Chart,
   },
   mounted() {
-    console.log("App loaded");
-    d3.selectAll("p")
-      .data([4, 8, 15, 16, 23, 42])
-      .enter()
-      .append("p")
-      .text(function (d) {
-        return "I’m number " + d + "!";
-      });
+    console.log("App mounted");
   },
 })
 export default class App extends Vue {}
